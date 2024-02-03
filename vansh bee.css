@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: rubik;
+}
+.middle{
+    /* background-color: white; */
+    height: 100vh;
+    width: 100%;
+
+}
+.middle .midd{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    gap: 20%;
+    margin-top: 12%;
+}
+.middle1{
+    height: 70vh;
+    width: 50%;
+    position: relative;
+    left: 5%;
+    /* background-color: red; */
+
+}
+.middle .middle2{
+    height: 100vh;
+    width: 65%;
+    position: relative;
+    bottom: 30%;
+    background-image: url(https://ashevillebeecharmer.com/wp-content/uploads/holiday-flavors-gift-set-copy.jpg);
+    background-size: 100% 100%;
+    
+    
+}
+
+.middle2{
+    height: 400px;
+    width: 400px;
+}
+.middle-para{
+    position: relative;
+    bottom: 20%;
+    border: 2px dotted #ed9b22;
+    font-size: 15px;
+    width: 35%;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #7f440b;
+    font-style: italic;
+    text-align: center;
+    box-shadow: 8px 7px 12px #fcc36f;
+    font-family: archer;
+}
+.midd-button{
+    height: 50px;
+    width: 40%;
+    background-color:#ed9b22;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    /* break-before: 10%; */
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: 0;
+
+}
+.midd-button:hover{
+    background-color: #5c3108;
+}
+.midd-button a:hover{
+    color: #faf2cf;
+
+}
+.midd-button a{
+    text-decoration: none;
+    display: block;
+    font-family: rubik;
+    color: #7f440b;
+    font-weight: 500;
+}
+.middle-h2{
+    font-size: 35px;
+    position: relative;
+    bottom: 10%;
+    color: #5c3108;
+}
+.middle2-para{
+    font-size: 22px;
+    color: #7f440b;
+    font-family: archer;
+}
+.middle2-para u{
+    font-family: archer;
+    font-size: 22px;
+}
+.middle3{
+    height: 100vh;
+    width: 100%;
+}
+#midd-span{
+    color: #5c3108;
+    position: relative;
+    top: 20px;
+    font-family: archer;
+    font-size: 20px;
+}
+.midd1{
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    top: -20%;
+    /* background-color: red; */
+    display: flex;
+
+}
+.midd2{
+    margin-left: 100px;
+}
+.minnor{
+    height: 100%;
+    width: 50%;
+    /* background-color: green; */
+}
+.midd3-flower1{
+    height: 140px;
+    width: 140px;
+    color: #ede3b7;
+    position: relative;
+    top: -20%;
+    z-index: 2;
+    left:0% ;
+}
+.midd3{
+    /* background-color: yellow; */
+    position: relative;
+    right: 10%;
+    top: 20%;
+}
+.midd3-h3{
+    margin-left: 50px;
+    font-size: 25px;
+    color: #5c3108;
+    font-family:rubik;
+}
+.midd3-flower2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    z-index: 2;
+    left: 92%;
+    transform: rotate(170deg);
+    top: 100%;
+    color:#ede3b7 ;
+}
+.midd2-para{
+    /* padding-left: 50px; */
+    position: relative;
+    left: 10%;
+    top: 7%;
+    color: #7f440b;
+    font-family:archer;
+    font-size:22px ;
+}
+.midd2-btn{
+    margin-top: 70px;
+    margin-left: 50px;
+    width:50% ;
+}
+.middle4{
+    height: 100vh;
+    width: 100%;
+    background-color: #888;
+    margin-top: 100px;
+
+}
+.midd4{
+color: #faf2cf;
+background-color: white;
+}
+.midd5 h1{
+    color: #c47500;
+    display: inline;
+    position: absolute;
+    top: 7%;
+    left: 39%;
+    font-size: 27px;
+}
+.midd5{
+    height: 120vh;
+    width: 100%;
+    background-color:#faf2cf;
+    position: relative;
+    bottom: 20px;
+    display: flex;
+    gap: 20px;
+}
+.midd5 .midd5-svg{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 41%;
+    color: #5c3108;
+}
+.midd50{
+    height: 400px;
+    width: 300px;
+    background-color: yellow;
+    /* position: absolute;
+    top: 30%;
+    right: 10%; */
+    margin-top: 13%;
+}
+.midd53{
+    height: 130px;
+    width: 100%;
+    right: 15%;
+    font-family: rubik;
+    color: #7f440b;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: -10px;
+}
+.midd52 h4{
+
+}
+.midd53 h6{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.midd511{
+    margin-left: 50px;
+}
+.midd53:hover{
+    background-color: #fff;
+    
+}
+.midd53 h2{
+    font-size: 17px;;
+}
+.midd53 h6{
+    font-weight: 500;
+}
+.midd5-flower3{
+    height: 200px;
+    width: 130px;
+    color: rgba(77,41,7,0.2);
+    transform: rotate(130deg);
+    margin-top: -70px;
+}

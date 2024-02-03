@@ -1,0 +1,404 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-bottom1{
+    height: 80vh;
+    width: 85%;
+    margin: 0px 80px 0 100px ;
+    display: flex;
+    margin-top: 400px;
+}
+.main-bottom1 .bottom{
+    height: 80vh;
+    width: 50%;
+    background-color: #fafaf3;
+    margin-top: -100px;
+
+} 
+.main-bottom1 .botm1{
+    border-top: 1px solid #edede3;
+    border-bottom: 1px solid #f0f0e6;
+    border-left: 1px solid #edede4
+}
+.main-bottom1 .botm1 h2{
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: rubik;
+}
+.main-bottom1 .botm1 p{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: archer;
+    font-size: 20px;
+    color:#5c3108 ;
+    line-height: 30px;
+}
+.btnnn{
+    display: flex;
+    gap: 50px;
+}
+.main-bottom1 .bottom  .vist-button{
+    height: 50px;
+
+    background-color: #ffa51e;
+    margin-top: 10px;
+    display: flex;
+    font-family: rubik;
+    color: #5c3108  ;
+    font-size: 13px;
+    font-weight: 800;
+    border-radius: 30px;
+    transition-property: all;
+    transition-duration: 0.333s;
+    cursor: pointer;
+}
+.main-bottom1 .bottom  .vist-button:hover{
+    background-color: #5c3108;
+    color: beige;
+    border: #5c3108 3px solid;
+}
+vist-button:hover vist-icon{
+    color: beige;
+}
+.main-bottom1 .bottom  .vist-button .vist-icon{
+    height: 30px;
+    width: 30px;
+
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.vist-word h4{
+    /* position: relative;
+    left: 10px; */
+    margin-left: 10px; 
+    margin-top: 6px;
+    font-size: 15px;   
+}
+.honey-word{
+    padding-left: 15px;
+    font-size: 18px;
+    width: 200px;
+}
+
+.vist-a{
+    width: 200px;
+}
+.honey-icon svg{
+    margin-left: 12px;
+}
+.honey-icon svg{
+    height: 28px;
+    width: 28px;
+}
+.honey-button{
+    position: relative;
+    top: 4px;
+    width: 250px;
+}
+
+.vist-btn{
+    width: 200px;
+    margin-left: 50px;
+}
+.main-bottom1 .botm2 img{
+    height: 100%;
+    width: 100%;
+    font-family: ;
+}
+.main-bottom2{
+    margin-top: 0px;
+
+
+}
+.desgin-btm{
+    color: #fed59f;
+
+}
+.bottom1{
+    height: 140vh;
+    width: 100%;
+    background-color: #fed59f;
+    margin-top: -5px;
+    position: relative;
+}
+.btom3{
+    /* background-color: green; */
+    position: absolute;
+    top: 12%;
+    left: 28%;
+    font-family: tektur;
+    color: #5c3108;
+}
+.btom3 h1{
+    color: #5c3108;
+    font-family: tektur;
+    font-size: 30px;
+}
+.bottom1 .btom4 svg{
+    height: 170px;
+    width: 170px;
+    
+
+}
+.btom4{
+    position: absolute;
+    top: 12%;
+    left: 45%;
+    color: #5c3108;
+}
+.btom5{
+    display: flex;
+    position: absolute;
+    /* gap: 50px; */
+    height: 80vh;
+    width: 100%;
+    top: 30%;
+}
+.btom5 .btom5-img{
+    height: 100%;
+    width: 60vh;
+    margin-left: 50px;
+    text-align: center;
+    color: white;
+    font-family: rubik;
+    padding-top: 250px;
+}
+.btom5-1{
+background-image: url(https://ashevillebeecharmer.com/wp-content/uploads/bath-body-home.jpg);
+    background-size: 242% 108%;
+    background-repeat: no-repeat;
+    background-position: -118px 0px ;
+}
+.btom5-2{
+    background-image: url(https://ashevillebeecharmer.com/wp-content/uploads/candles-home2.jpg);
+    background-size: 242% 108%;
+    background-repeat: no-repeat;
+    background-position: -241px 0px ;
+}
+.btom5-3{
+    background-image: url(https://ashevillebeecharmer.com/wp-content/uploads/tshirts-future-female-home.jpg);
+    background-size: 172% 100%;
+    background-repeat: no-repeat;
+    background-position: -125px 0px ;
+}
+.btom5-img h3{ 
+    font-size:23px;
+    font-family:archer pro ;
+    margin-top: 10px;
+    font-weight: 100;
+
+}
+.btom5-img h1{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.btom5-1::after{
+    content: '';
+    background: linear-gradient(45deg, rgb(31, 30, 30) ,rgb(114, 107, 107));
+}
+.btom5-img a{
+    display: block;
+    height: 50px;
+    width: 200px;
+    background-color: #ffa51e;
+    color: #5c3108;
+    text-decoration: none;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 20%;
+    padding-top: 15px;
+    font-weight: 700;
+    font-family: rubik;
+    transition-property: all;
+    transition-duration: 0.777s;
+}
+.btom5-3 a{
+    padding-top: 15px;
+    width: 300px;
+    margin-left: 10%;
+}
+.btom5-1 a{
+    margin-top: 30px;
+}
+.btom5-2 a{
+    margin-top: 30px;
+}
+.btom5-img a:hover{
+    background-color: #5c3108;
+    color: #fffacc;
+}
+.dotted-div-bottom{
+    height: 20vh;
+    max-width: 18em;
+    color: #ece2b7;
+    transform:  rotate(164deg);
+    position: relative;
+    top: 40px;
+    right: -76%;
+    z-index: 0;
+}
+.dotted-div-bottom svg{
+    position: absolute;
+    left: -25px;
+    overflow: hidden;
+}
+.main-bottom3{
+    height: 70vh;
+    width: 90%;
+    background-color:#e6e6e6;
+    margin-left: 70px;
+    z-index: 1;
+    position: relative;
+    bottom: 15px;
+    display: flex;
+    border: 1px solid #e5e5d3;
+}
+.main-bottom3 .btom3-1{
+    height: 100%;
+    width: 25%;
+    position: relative;
+    background-color: #fff;
+    opacity: 0.999;
+
+}
+.main-bottom3 .btom3-2{
+    height: 100%;
+    width: 75%;
+}
+.btom3-1 img{
+    height: 270px;
+    width: 270px;
+    position: relative;
+    /* bottom: 62%; */
+    top: -15%;
+    opacity: 0.555;
+}
+.btom3-1 h1{
+    margin-top:-57% ;
+    position: relative;
+    left: 25%;
+    font-family: rubik;
+    font-size: 27px;
+}
+.btom3-1 a{
+    display: block;
+    height: 50px;
+    width: 170px;
+    color: #5c3108;
+    border: #5c3108 2px solid;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-top: 20px;
+    padding-top: 13px;
+    text-align: center;
+    text-decoration: none;
+    font-family: rubik;
+    font-weight: 700;
+    transition-property: all;
+    transition-duration: 0.666s;
+}
+.btom3-1 a:hover{
+    border: #ffa51e 2px solid ;
+    color: #ffa51e;
+}
+btom3-2 img{
+    height: 100%;
+    width: 100%;
+}
+.dotted-div-bottom2{
+    height: 20vh;
+    max-width: 18em;
+    transform:  rotate(157deg);
+    position: relative;
+    top: -100px;
+    color: #ece2b7;
+}
+.dotted-div-bottom2 svg{
+    height: 110%;
+    width: 99%;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+.main-bottom4{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.main-bottom4 .btom4a{
+
+    color: #5c3108;
+
+}
+.btom4-1{
+    margin-left: 50px;
+    border-right: 1px white solid;
+}
+.btom4-img{
+    position: absolute;
+    top: -80px;
+    right: 10px;
+
+}
+.btom4-1 h1{
+    font-family: tektur;
+    margin-top: 35px;
+    font-size: 28px;
+}
+.btom4-1 p{
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 25px;
+    font-family: archer pro;
+}
+.bee-imgg{
+    display:flex;
+    height: 50px;
+    width: 200px;
+    text-decoration: none;
+    color: #5c3108;
+    background-color: #ffa51e;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    font-family: rubik;
+    transition-property: all;
+    transition-duration: 0.666s;
+}
+.bee-img svg{
+    /* color: #ffa51e; */
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.bee-img{
+    margin-left: 10px;
+}
+.bee-word{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.bee-imgg:hover{
+    background-color: #5c3108;
+    border: #5c3108 1px solid;
+    color: #ece2b7;
+}
+.btom4a img{
+    height: 150%;
+    width: 100%;
+}
+.btom4-2{
+    overflow: hidden;
+    height: 90%;
+    width: 40%;
+}
+.btom4-1{
+    height: 100%;
+    width: 50%;
+}
